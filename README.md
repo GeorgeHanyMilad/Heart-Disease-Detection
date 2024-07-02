@@ -1,6 +1,6 @@
 <img src="https://th.bing.com/th/id/R.d49617b676d81d40b6cfa9f086899f34?rik=II5eeuDx4Cr17Q&pid=ImgRaw&r=0" alt="Logo" width="700"/>
 
-# Heart Disease Detection Model
+# Heart Disease Detection Model 💔
 
 This repository contains the implementation of a machine learning model to detect heart disease based on various medical parameters.
 
