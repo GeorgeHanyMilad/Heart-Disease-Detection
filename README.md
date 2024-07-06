@@ -45,6 +45,8 @@ The dataset contains the following features:
 - seaborn
 - plotly
 - sklearn
+- sweetviz
+- time
 - warnings
 
 ## Steps
@@ -58,10 +60,13 @@ The dataset contains the following features:
 
 ## Algorithms
 
-- Logistic Regression (87.00 %)
+- Logistic Regression (86.99 %)
+- KNN (98.20 %)
 - Support Vector Machine (87.89 %)
 - Decision Tree (95.52 %)
 - Random Forest (97.31 %)
+- XGBoost (88.78 %)
+- Naive Bayes (85.20 %)
 
 ## Feedback
 
