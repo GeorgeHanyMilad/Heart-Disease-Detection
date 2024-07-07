@@ -40,11 +40,13 @@ The dataset contains the following features:
 
 ## Libraries
 
+- numpy
 - pandas
 - matplotlib
 - seaborn
 - plotly
 - sklearn
+- xgboost
 - sweetviz
 - time
 - warnings
