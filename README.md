@@ -11,7 +11,7 @@ This repository contains the implementation of a machine learning model to detec
 - [Libraries](#libraries)
 - [Steps](#steps)
 - [Algorithms](#algorithms)
-- [Feedback](#feedback)
+- [Finally](#finally)
 
 ## Introduction
 
@@ -53,9 +53,10 @@ The dataset contains the following features:
 
 ## Steps
 
-- Reading the Data
+- Reading and Understand The Dataset
 - Exploratory Data Analysis (EDA)
 - Feature Engineering and Preprocessing
+- Feature Selection
 - Splitting the Data
 - Model Selection and Training
 - Model Evaluation
@@ -70,6 +71,9 @@ The dataset contains the following features:
 - XGBoost (88.78 %)
 - Naive Bayes (85.20 %)
 
-## Feedback
+## Finally
 
-If you have any feedback, please reach out to me at [Kaggle Notebook](https://www.kaggle.com/code/georgehanymilad/heart-disease-detection)
+- ☛ You can express your opinion about this project through: [Kaggle Notebook](https://www.kaggle.com/code/georgehanymilad/heart-disease-detection)
+- ☛ You can also try this project and benefit from it by: [Google Colab](https://colab.research.google.com/drive/177xrCGubfCDTkjNQHjYJfjYRwoJ_laFj?usp=sharing)
+- ☛ For more projects and activities, follow me here: [My GitHub Profile](https://github.com/GeorgeHanyMilad)
+- ☛ If you would to contact and chat with me: [Gmail](mailto:georgehanymiladfam@gmail.com)
